@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Mine has Ice-cream, is it because I am fat?
 
 ![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
 {: .center}
