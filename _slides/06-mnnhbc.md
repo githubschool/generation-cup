@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to the greatest slide deck"
 ---
 
-Caption here
+I'm Matthew.  I like guitar, have a moustashe problem and have arms and legs which look slightly octopoid
 
 ![defunktocat](https://octodex.github.com/images/defunktocat.png)
 {: .center}
