@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to the greatest slide deck"
 ---
 
 I'm Matthew.  I like guitar, have a moustashe problem and have arms and legs which look slightly octopoid
